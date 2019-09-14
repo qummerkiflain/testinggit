@@ -1,0 +1,1 @@
+This is a testing repository for learning git, it has some of my old project file.
