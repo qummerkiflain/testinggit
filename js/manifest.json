@@ -1,0 +1,101 @@
+{
+    "name": "marcoSven",
+    "short_name": "marcoSven",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://marcosven.com/",
+    "theme_color": "#333333",
+    "background_color": "#fed136",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/images/c38499e7-0992-2fbd-f297-6ec6570dfcba.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/507d846a-4ca0-4c83-a4e0-eeb46d4d5462.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/61f4e042-8b5d-87c2-0906-e8d0238bb3a0.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2216bf96-1383-e9fd-d368-9100d8c1c3f0.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5dfe3ddd-c408-ba28-0898-4281a34dd9e7.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/961a3570-c5ba-5939-aa41-1bba8a9c4001.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ca48342f-df19-f13f-69d9-d074ef844f9a.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/77c37fa2-480a-aa79-be9a-cf76a4806889.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/497602be-9e17-05e6-cbf5-6593b31490bf.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7c6c10ab-01c6-bb0e-c712-fb9a48480ab1.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/53eb8c9d-2cf0-005f-dd4e-cff726755fa0.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/marcoSven1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6ef56c6b-5369-885a-4fd6-dbace6b6a677.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b308452c-a55f-fab0-b116-c9872e4a7a43.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b5a2c812-7f2b-2658-e4f2-36cf8b693763.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e627b8d1-a318-29ba-e3a4-8b6867d4f9d2.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
